@@ -1,8 +1,8 @@
 {
-	"ip":"LonelyStars.aternos.me",
-	"port": 43219,
+	"ip":"Mohammedjmj.aternos.me",
+	"port": 40895,
 	"name": "Ly Hoang Khang",
-	"auto-night-skip":"false",
+	"auto-night-skip":"true",
 	"login-enabled":"true",
 	"register-cmd":"ditmecongsan",
 	"login-cmd":"dmcs"
